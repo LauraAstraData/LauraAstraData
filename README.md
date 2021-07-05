@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LauraAstraData
 - 👀 I’m interested in data analysis, visualization and storytelling
-- 🌱 I’m currently learning SQL, Pythog
+- 🌱 I’m currently learning SQL, Python
 - 💞️ I’m looking to collaborate on open resources projects about health & wellbeing, music, community & NGOs
 - 📫 How to reach me frauastradata@gmail.com
 
